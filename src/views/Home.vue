@@ -28,7 +28,7 @@ const step = ref(0);
             v-if="step >= 3"
             @done="step++"
             class="mt-4 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
-            href="https://instagram.com/"
+            href="https://www.instagram.com/hongyi143/"
             target="_blank"
         >
             <MdiInstagram class="mr-1 inline-block" />
