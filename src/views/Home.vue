@@ -11,10 +11,10 @@ const step = ref(0);
         <Typing
             v-if="step >= 0"
             @done="step++"
-            text="My Portfolio"
+            text="徐弘益"
             class="mb-2 block text-2xl sm:text-3xl lg:text-4xl"
         />
-        <Typing v-if="step >= 1" @done="step++" text="Hello!" :speed="60" />
+        <Typing v-if="step >= 1" @done="step++" text="A student who studies at HYSH. And you can call me Andy Hus." :speed="60" />
         <a
             v-if="step >= 2"
             class="mt-8 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
