@@ -16,10 +16,13 @@ const step = ref(0);
 
         <Typing v-if="step >= 1" @done="step++" text="As you see, my name is Andy. 
 And I'm 16 years old in 2022, also a student, studing at HYSH. 
+
+This summer I went to NTNU CSIE Camp to learn how to code.
+Here's what I learned :
 " />
-<img src="https://p3-tt.byteimg.com/origin/pgc-image/768380d0c8c64873a1264091fb6271a9?from=pc.jpg" class="object-cover h-48 w-48 "/>
-<Typing v-if="step >= 1" @done="step++" text= "Happy Dog~ " />
+<img src="https://p3-tt.byteimg.com/origin/pgc-image/768380d0c8c64873a1264091fb6271a9?from=pc.jpg" class="object-cover h-48 w-48 absolute bottom-8 left-0"/>
+<Typing v-if="step >= 1" @done="step++" text= "Happy Dog~ " class="absolute bottom-0 left-12"/>
 <img src="https://img.ttshow.tw/images/media/uploads/2019/10/04/65a92dc9gy3g7awfnvfvsj20mi0u0ds5.jpg" class="object-cover h-96 w-48 absolute inset-y-12 right-20 "/>
-<Typing v-if="step >= 1" @done="step++" text="My idol : G.E.M 鄧紫棋" class="absolute inset-y-15 right-20 "/>
+<Typing v-if="step >= 1" @done="step++" text="My idol : G.E.M 鄧紫棋" class="absolute inset-y-10 right-20 "/>
     </div>
 </template>

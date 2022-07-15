@@ -14,7 +14,7 @@ const step = ref(0);
             text="徐弘益"
             class="mb-2 block text-2xl sm:text-3xl lg:text-4xl"
         />
-        <Typing v-if="step >= 1" @done="step++" text="A student who studies at HYSH. And you can call me Andy Hus." :speed="60" />
+        <Typing v-if="step >= 1" @done="step++" text="A student who studies at HYSH. And you can call me Andy Hus." :speed="80" />
         <a
             v-if="step >= 2"
             class="mt-8 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
@@ -22,7 +22,7 @@ const step = ref(0);
             target="_blank"
         >
             <MdiGithub class="mr-1 inline-block" />
-            <Typing v-if="step >= 2" @done="step++" text="GitHub" :speed="60" />
+            <Typing v-if="step >= 2" @done="step++" text="GitHub" :speed="80" />
         </a>
         <a
             v-if="step >= 3"
@@ -32,7 +32,7 @@ const step = ref(0);
             target="_blank"
         >
             <MdiInstagram class="mr-1 inline-block" />
-            <Typing v-if="step >= 3" @done="step++" text="Instagram" :speed="60" />
+            <Typing v-if="step >= 3" @done="step++" text="Instagram" :speed="80" />
         </a>
     </div>
 </template>
