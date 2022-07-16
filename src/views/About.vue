@@ -22,7 +22,7 @@ Here's what I learned :
 " :speed="45" />
 <a
     v-if="step >=4"
-    class="mt-8 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700 absolute -inset-y-15 left-15"
+    class="mt-8 flex items-center text-lg text-purple-700 transition-all hover:text-purple-400 absolute -inset-y-15 left-15"
     href="http://localhost:3000/projects"
     target="_blank"
     >
