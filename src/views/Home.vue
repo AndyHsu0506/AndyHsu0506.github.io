@@ -17,7 +17,7 @@ const step = ref(0);
         <Typing v-if="step >= 1" @done="step++" text="A student who studies at HYSH. And you can call me Andy Hus." :speed="80" />
         <a
             v-if="step >= 2"
-            class="mt-8 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
+            class="mt-8 flex items-center text-lg text-purple-700 transition-all hover:text-purple-400"
             href="https://github.com/"
             target="_blank"
         >
@@ -27,7 +27,7 @@ const step = ref(0);
         <a
             v-if="step >= 3"
             @done="step++"
-            class="mt-4 flex items-center text-lg text-gray-500 transition-all hover:text-gray-700"
+            class="mt-4 flex items-center text-lg text-purple-700 transition-all hover:text-purple-400"
             href="https://www.instagram.com/hongyi143/"
             target="_blank"
         >
