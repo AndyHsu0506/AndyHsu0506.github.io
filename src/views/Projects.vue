@@ -7,11 +7,11 @@ import Fade from "../components/Fade.vue";
 
 const projects = [
     {
-        name: "製作個人網站？",
-        description: "This is a project description. " + random_text(64),
-        image: "https://picsum.photos/640/320",
-        link: "https://docs.google.com/presentation/d/1dxMjdOhcYxAy1Lm2nm6sfob-3imtIb45EiWVKyU-RTo/edit#slide=id.p",
-        tags: ["tag1", "tag2", "tag3"],
+        name: "製作個人網站",
+        description: "第一次自己編輯的網站~我覺得還有超大的進步空間(那是肯定的吧哈哈哈)",
+        image: "I'm sorry, there's no image.",
+        link: "https://docs.google.com/presentation/d/1Qjg_cUy1tVS9u490QG6cQT32o-vcEcCnlsdjRS1G908/edit#slide=id.g8f4bd20341_0_1",
+
     },
     {
         name: "寫出 AI？",
