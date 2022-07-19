@@ -14,25 +14,25 @@ const projects = [
 
     },
     {
-        name: "寫出 AI？",
+        name: "AiGoBang",
         description: "This is a project description. " + random_text(64),
-        image: "https://picsum.photos/640/320",
-        link: "https://github.com",
-        tags: ["tag1", "tag2", "tag3"],
+        image: "I'm sorry, there's no image.",
+        link: "https://docs.google.com/presentation/d/16WDCpUAY7AumZ6vjNC-fkRMxm9zPkQKsYVvyrPEenM0/edit#slide=id.g8f4bd20341_0_1",
+
     },
     {
-        name: "學會 Linux？",
+        name: "Linux",
         description: "This is a project description. " + random_text(64),
-        image: "https://picsum.photos/640/320",
-        link: "https://github.com",
-        tags: ["tag1", "tag2", "tag3"],
+        image: "I'm sorry, there's no image.",
+        link: "https://docs.google.com/presentation/d/16WDCpUAY7AumZ6vjNC-fkRMxm9zPkQKsYVvyrPEenM0/edit#slide=id.g8f4bd20341_0_1",
+        
     },
     {
-        name: "做出桌布？",
+        name: "tablecloth",
         description: "This is a project description. " + random_text(64),
-        image: "https://picsum.photos/640/320",
-        link: "https://github.com",
-        tags: ["tag1", "tag2", "tag3"],
+        image: "I'm sorry, there's no image.",
+        link: "https://docs.google.com/presentation/d/16WDCpUAY7AumZ6vjNC-fkRMxm9zPkQKsYVvyrPEenM0/edit#slide=id.g8f4bd20341_0_1",
+
     },
 ];
 
