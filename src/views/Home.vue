@@ -18,7 +18,7 @@ const step = ref(0);
         <a
             v-if="step >= 2"
             class="mt-8 flex items-center text-lg text-purple-700 transition-all hover:text-purple-400"
-            href="https://github.com/"
+            href="https://app.circleci.com/projects/project-dashboard/github/AndyHsu0506/"
             target="_blank"
         >
             <MdiGithub class="mr-1 inline-block" />
