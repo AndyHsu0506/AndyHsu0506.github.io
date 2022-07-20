@@ -15,21 +15,21 @@ const projects = [
     },
     {
         name: "AiGoBang",
-        description: "This is a project description. " + random_text(64),
+        description: "和大家一起寫的aigobang！應該還是有很多bug，但目前能力有限，之後學到更多東西後會回頭再次審視" + random_text(64),
         image: "I'm sorry, there's no image.",
         link: "https://docs.google.com/presentation/d/16WDCpUAY7AumZ6vjNC-fkRMxm9zPkQKsYVvyrPEenM0/edit#slide=id.g8f4bd20341_0_1",
 
     },
     {
         name: "Linux",
-        description: "This is a project description. " + random_text(64),
+        description: "在營隊中學到了不少基本指令，雖然是基礎，但知識又加廣了!而且我真的覺得超酷" + random_text(64),
         image: "I'm sorry, there's no image.",
         link: "https://docs.google.com/presentation/d/16WDCpUAY7AumZ6vjNC-fkRMxm9zPkQKsYVvyrPEenM0/edit#slide=id.g8f4bd20341_0_1",
         
     },
     {
         name: "tablecloth",
-        description: "This is a project description. " + random_text(64),
+        description: "很開心有了屬於自己的桌布！" + random_text(64),
         image: "I'm sorry, there's no image.",
         link: "https://docs.google.com/presentation/d/16WDCpUAY7AumZ6vjNC-fkRMxm9zPkQKsYVvyrPEenM0/edit#slide=id.g8f4bd20341_0_1",
 
