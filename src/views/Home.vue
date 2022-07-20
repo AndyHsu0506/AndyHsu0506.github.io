@@ -14,7 +14,7 @@ const step = ref(0);
             text="徐弘益"
             class="mb-2 block text-2xl sm:text-3xl lg:text-4xl"
         />
-        <Typing v-if="step >= 1" @done="step++" text="A student who studies at HYSH. And you can call me Andy Hus." :speed="80" />
+        <Typing v-if="step >= 1" @done="step++" text="A student who studies at HYSH. And you can call me Andy Hsu." :speed="80" />
         <a
             v-if="step >= 2"
             class="mt-8 flex items-center text-lg text-purple-700 transition-all hover:text-purple-400"
