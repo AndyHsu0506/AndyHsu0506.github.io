@@ -10,28 +10,28 @@ const projects = [
         name: "製作個人網站",
         description: "第一次自己編輯的網站~我覺得還有超大的進步空間(那是肯定的吧哈哈哈)",
         image: "I'm sorry, there's no image.",
-        link: "https://docs.google.com/presentation/d/1Qjg_cUy1tVS9u490QG6cQT32o-vcEcCnlsdjRS1G908/edit#slide=id.g8f4bd20341_0_1",
+        link: "https://docs.google.com/presentation/d/1V5rw1IixoQMFwPIQvv7hllaMFwMhRIGhkk-9CbTWUz8/edit#slide=id.g8f4bd20341_0_1",
 
     },
     {
         name: "AiGoBang",
         description: "和大家一起寫的aigobang！應該還是有很多bug，但目前能力有限，之後學到更多東西後會回頭再次審視" + random_text(64),
         image: "I'm sorry, there's no image.",
-        link: "https://docs.google.com/presentation/d/16WDCpUAY7AumZ6vjNC-fkRMxm9zPkQKsYVvyrPEenM0/edit#slide=id.g8f4bd20341_0_1",
+        link: "https://docs.google.com/presentation/d/1V5rw1IixoQMFwPIQvv7hllaMFwMhRIGhkk-9CbTWUz8/edit#slide=id.g8f4bd20341_0_1",
 
     },
     {
         name: "Linux",
         description: "在營隊中學到了不少基本指令，雖然是基礎，但知識又加廣了!而且我真的覺得超酷" + random_text(64),
         image: "I'm sorry, there's no image.",
-        link: "https://docs.google.com/presentation/d/16WDCpUAY7AumZ6vjNC-fkRMxm9zPkQKsYVvyrPEenM0/edit#slide=id.g8f4bd20341_0_1",
+        link: "https://docs.google.com/presentation/d/1V5rw1IixoQMFwPIQvv7hllaMFwMhRIGhkk-9CbTWUz8/edit#slide=id.g8f4bd20341_0_1",
         
     },
     {
         name: "tablecloth",
         description: "很開心有了屬於自己的桌布！" + random_text(64),
         image: "I'm sorry, there's no image.",
-        link: "https://docs.google.com/presentation/d/16WDCpUAY7AumZ6vjNC-fkRMxm9zPkQKsYVvyrPEenM0/edit#slide=id.g8f4bd20341_0_1",
+        link: "https://docs.google.com/presentation/d/1V5rw1IixoQMFwPIQvv7hllaMFwMhRIGhkk-9CbTWUz8/edit#slide=id.g8f4bd20341_0_1",
 
     },
 ];
