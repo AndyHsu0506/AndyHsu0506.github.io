@@ -23,7 +23,7 @@ Here's what I learned :
 <a
     v-if="step >=4"
     class="mt-8 flex items-center text-lg text-purple-700 transition-all hover:text-purple-400 absolute -inset-y-15 left-15"
-    href="https://andyhsu0506.github.io/"
+    href="https://andyhsu0506.github.io/projects"
     target="_blank"
     >
     <MdiGithub class="mr-1 inline-block" />
